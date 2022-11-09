@@ -20,5 +20,8 @@
     - 司法预测
     - 类案匹配
     - 司法问答
-
+- De-biased court's view generation with causality
+  - 从因果角度分析了法官生成观点的偏见
+  - 基于后门调整改进生成过程
+- 
 
