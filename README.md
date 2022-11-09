@@ -10,7 +10,7 @@
     - Generation：生成对应的rationale
     - 加入一个罪名预测任务，降低Adj部分的噪音
   - 数据集很有价值，规模大
-- <font color="blue">Explainable legal case matching via inverse optimal transport-based rationale extraction</font>
+- <font color=red>Explainable legal case matching via inverse optimal transport-based rationale extraction</font>
 - How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence
   - NLP + Legal 综述
   - 分析了两大类任务
@@ -23,5 +23,9 @@
 - De-biased court's view generation with causality
   - 从因果角度分析了法官生成观点的偏见
   - 基于后门调整改进生成过程
-- 
+- Iteratively Questioning and Answering for Interpretable Legal Judgment Prediction
+  - 基于问答的方式提高LJP任务
+  - 手动构造了29个Legal Element
+  - 虽然效果没有超过SOTA，但可解释性较好
+  - 有错误分析
 
