@@ -28,4 +28,6 @@
   - 手动构造了29个Legal Element
   - 虽然效果没有超过SOTA，但可解释性较好
   - 有错误分析
-
+- Dependency Learning for Legal Judgment Prediction with a Unified Text-to-Text Transformer
+  - 以T5的形式预测LJP任务
+  - 可以方便的加入法官观点预测和法条内容预测作为子任务
