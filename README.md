@@ -1,4 +1,4 @@
-# Facts in CrourView Generation 论文
+# Facts in CourtView Generation 论文
 
 - Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions
   - 针对特定的charge，因此输入中包含一个对charge的编码
